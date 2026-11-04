@@ -4,6 +4,11 @@ An autonomous LEGO EV3 robot that flips its own switch back off whenever someone
 
 Written in **RobotC**.
 
+<p align="center">
+  <img src="images/flipper-bot-side.jpg" alt="Flipper Bot from the side" width="400" />
+  <img src="images/flipper-bot-top.jpg" alt="Flipper Bot from above" width="400" />
+</p>
+
 ## Features
 
 - **Switch flipping**: when the switch is turned on, a motor-driven arm pushes it back off after a randomized delay
